@@ -1,0 +1,5 @@
+fake_useragent
+requests
+openpyxl
+mysql
+pip install mysql-connector-python
